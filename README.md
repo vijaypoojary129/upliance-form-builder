@@ -21,3 +21,6 @@ This project implements the Associate Software Developer assignment requirements
 ## Deliverables included
 - Source files (React + TypeScript)
 - Instructions to run and deploy
+
+- To Run
+- https://upliance-form-builder-pied.vercel.app/
